@@ -12,16 +12,11 @@
 
 ## 特性
 
-### 角色特点
-- **名称颜色**: 粉红色调 (`#FFB3E6`)
-- **性别**: 女性
 - **初始生命值**: 75
-- **能量颜色**: 橙褐色轮廓
 
 ### 核心机制
 - **弹药系统**: 独特的弹药装填和消耗机制
 - **枪械改装**: 可升级和改装武器
-- **远程狙击**: 高伤害精准打击
 
 ### 初始卡组
 - 射击 (SheJi) x1
@@ -31,46 +26,6 @@
 
 ### 初始遗物
 - **GunFlowers** - 蕾缪安的专属起始遗物
-
-## 卡牌列表
-
-### 攻击牌
-- 射击 (SheJi)
-- 连射 (LianShe)
-- 扫射 (SaoShe)
-- 清扫 (QingSao)
-- 冲锋问候 (ChongFengWenHou)
-- 爆裂黎明 (BaoLieLiMing)
-
-### 技能牌
-- 聚精会神 (JuJingHuiShen)
-- 弹药装填 (DanYaoZhuangTian)
-- 寻找掩体 (XunZhaoYanTi)
-- 改装 (GaiZhuang)
-- 改装解除 (GaiZhuangJieChu)
-- 拆解 (ChaiJie)
-- 采购 (CaiGou)
-- 祈祷 (QiDao)
-
-### 能力牌
-- 冰息凝神 (BingXiNingShen)
-- 过载狙击 (GuoZaiJuJi)
-- 轮椅机动 (LunYiJiDong)
-- 轮椅枪神 (LunYiQiangShen)
-
-## 遗物列表
-
-- **GunFlowers** - 枪械花
-- **AmmoFlower** - 弹药花
-- **AppleAndPlant** - 苹果与植物
-
-## 药水列表
-
-- **AmmoPotion** - 弹药药水
-- **AimPotion** - 瞄准药水
-- **ZhuanZhuPotion** - 专注药水
-
-## 技术栈
 
 - **游戏引擎**: Godot 4.5
 - **编程语言**: C#
@@ -111,12 +66,6 @@ lemuen/
 - .NET SDK
 - FMOD Studio
 
-### 构建方法
-```bash
-# 使用 Godot 编辑器打开项目
-# 或命令行构建
-godot --build-solutions
-```
 
 ## 许可证
 
