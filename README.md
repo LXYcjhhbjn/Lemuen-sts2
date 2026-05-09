@@ -8,6 +8,10 @@
 
 这是一个为《杀戮尖塔2》(Slay the Spire 2) 开发的自定义角色MOD，添加了来自《明日方舟》的角色 **蕾缪安 (Lemuen)**。
 
+依赖前置MOD：
+- BaseLib：https://github.com/Alchyr/BaseLib-StS2/
+- RistuLib：https://github.com/BAKAOLC/STS2-RitsuLib/
+
 蕾缪安是一名使用枪械和弹药系统的远程攻击角色，拥有独特的"弹药装填"和"改装"机制。
 
 ## 特性
@@ -26,11 +30,6 @@
 
 ### 初始遗物
 - **GunFlowers** - 蕾缪安的专属起始遗物
-
-- **游戏引擎**: Godot 4.5
-- **编程语言**: C#
-- **音频系统**: FMOD
-- **MOD框架**: Harmony (用于代码注入)
 
 ## 项目结构
 
