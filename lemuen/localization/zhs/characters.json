@@ -1,0 +1,17 @@
+{
+  "LXY-LEMUEN_CHARACTER.aromaPrinciple": "[sine][blue]尖塔...真是个危险的地方啊[/blue][/sine]",
+  "LXY-LEMUEN_CHARACTER.banter.alive.endTurnPing": "赶快就位",
+  "LXY-LEMUEN_CHARACTER.banter.dead.endTurnPing": "我会看着各位的身后，不会有人能追上来。",
+  "LXY-LEMUEN_CHARACTER.cardsModifierDescription": "蕾缪安的卡牌现在会出现在奖励和商店中。",
+  "LXY-LEMUEN_CHARACTER.cardsModifierTitle": "蕾缪安卡牌",
+  "LXY-LEMUEN_CHARACTER.description": "拉特兰教皇厅第七厅枢机。\n谁说轮椅不能在尖塔里漂移的。",
+  "LXY-LEMUEN_CHARACTER.eventDeathPrevention": "你的死讯要由谁来承受，你想过吗……",
+  "LXY-LEMUEN_CHARACTER.goldMonologue": "[sine]这些金币……也许能给小乐换些甜品……[/sine]",
+  "LXY-LEMUEN_CHARACTER.possessiveAdjective": "她的",
+  "LXY-LEMUEN_CHARACTER.pronounObject": "她",
+  "LXY-LEMUEN_CHARACTER.pronounPossessive": "她的",
+  "LXY-LEMUEN_CHARACTER.pronounSubject": "她",
+  "LXY-LEMUEN_CHARACTER.title": "蕾缪安",
+  "LXY-LEMUEN_CHARACTER.titleObject": "蕾缪安",
+  "LXY-LEMUEN_CHARACTER.unlockText": "用[pink]{Prerequisite}[/pink]进行一局游戏来解锁这个角色。"
+}

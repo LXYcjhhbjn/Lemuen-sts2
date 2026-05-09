@@ -1,0 +1,8 @@
+{
+    "LXY-AMMO_POTION.title": "弹药药水",
+    "LXY-AMMO_POTION.description": "获得[blue]{AMMO}[/blue]层[gold]弹药[/gold]。",
+    "LXY-AIM_POTION.title": "瞄准药水",
+    "LXY-AIM_POTION.description": "获得[blue]{AIM}[/blue]层[gold]瞄准[/gold]。",
+    "LXY-ZHUAN_ZHU_POTION.title": "专注药水",
+    "LXY-ZHUAN_ZHU_POTION.description": "获得[blue]{ZhuanZhu}[/blue]层[gold]专注[/gold]。"
+}

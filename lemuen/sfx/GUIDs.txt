@@ -1,0 +1,9 @@
+{feb2c579-4ed1-4a4c-979c-5712bbd26821} bank:/Lemuen
+{70a05f71-c5a9-4d3b-8756-bd40de18b1e9} bank:/Master
+{e8bd7fa5-b4d2-0179-011f-37be2febb771} bank:/Master.strings
+{e65f419d-9d48-4b31-97a1-946704807176} bus:/
+{5860b7ea-1766-4e04-a3c7-fecd123b9574} bus:/Reverb
+{3983f4f4-a794-4f7c-86b9-5d5a7841bb1d} event:/Lemuen/sfx/attack
+{c4225f3d-26bc-4500-a518-5d0049c61f59} event:/Lemuen/sfx/cast
+{cf541569-6933-4d14-ad1d-386a4d3d812a} event:/Lemuen/sfx/die
+{828fad28-eb7e-47af-9fc7-a66b33a9a89d} event:/Lemuen/sfx/select

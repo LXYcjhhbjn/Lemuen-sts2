@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://clg2f2pw4k7p"
+path="res://.godot/imported/char_4193_lemuen_ambienceSynesthesia_7.atlas-48c7a573082bc44145703693d0658284.spatlas"
+
+[deps]
+
+source_file="res://lemuen/images/skin/anhunqu/char_4193_lemuen_ambienceSynesthesia_7.atlas"
+dest_files=["res://.godot/imported/char_4193_lemuen_ambienceSynesthesia_7.atlas-48c7a573082bc44145703693d0658284.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

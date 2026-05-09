@@ -1,0 +1,16 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://dwqfjwuygptx7"
+path="res://.godot/imported/lemuen.atlas-443b04d8b5a98c538158c2cbb442ce65.spatlas"
+
+[deps]
+
+source_file="res://lemuen/images/skin/relax/lemuen.atlas"
+dest_files=["res://.godot/imported/lemuen.atlas-443b04d8b5a98c538158c2cbb442ce65.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
+specular_map_prefix="s"

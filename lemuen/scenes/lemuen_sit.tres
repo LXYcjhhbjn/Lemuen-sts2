@@ -1,0 +1,8 @@
+[gd_resource type="SpineSkeletonDataResource" load_steps=3 format=3 uid="uid://bceciw6apm6ty"]
+
+[ext_resource type="SpineAtlasResource" uid="uid://de2niolmm6rq4" path="res://lemuen/images/skin/sit/build_char_4193_lemuen.atlas" id="1_igksp"]
+[ext_resource type="SpineSkeletonFileResource" uid="uid://c2cn1ivrx8fy4" path="res://lemuen/images/skin/sit/lemuen.skel" id="2_vq4v6"]
+
+[resource]
+atlas_res = ExtResource("1_igksp")
+skeleton_file_res = ExtResource("2_vq4v6")

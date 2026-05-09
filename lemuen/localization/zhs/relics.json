@@ -1,0 +1,11 @@
+{
+  "LXY-GUN_FLOWERS.title": "枪焰作花",
+  "LXY-GUN_FLOWERS.description":"在每场战斗开始时，额外抽[blue]{Cards}[/blue]张牌，获得[gold]铳械改装[/gold]。\n给予所有敌人[blue]1[/blue]层[gold]通缉[/gold]。",
+  "LXY-GUN_FLOWERS.flavor": "她本不愿开枪。",
+  "LXY-AMMO_FLOWER.title":"弹匣与花窗",
+  "LXY-AMMO_FLOWER.description":"在每场战斗开始时，额外抽[blue]{Cards}[/blue]张牌，获得[gold]铳械改装[/gold]。\n你的回合开始时，给予所有敌人[blue]1[/blue]层[gold]通缉[/gold]。",
+  "LXY-AMMO_FLOWER.flavor":"教堂的花窗也能孤独旋转。",
+  "LXY-APPLE_AND_PLANT.title": "一颗苹果，一捧土",
+  "LXY-APPLE_AND_PLANT.description":"你每打出[blue]{Cards}[/blue]张[gold]技能牌[/gold]，就获得{AMMO:diff()}层[gold]弹药[/gold]。",
+  "LXY-APPLE_AND_PLANT.flavor": "栽种希望"
+}

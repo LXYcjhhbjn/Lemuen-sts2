@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://b4d7lpr7ha2f8"
+path="res://.godot/imported/lemuen.skel-52214a569606c96e44e3658201492501.spskel"
+
+[deps]
+
+source_file="res://lemuen/images/skin/lemuen.skel"
+dest_files=["res://.godot/imported/lemuen.skel-52214a569606c96e44e3658201492501.spskel"]
+
+[params]
+

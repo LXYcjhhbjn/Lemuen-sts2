@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://cv88odykgrdsa"]
+
+[ext_resource type="Script" uid="uid://dwf5eo7kublx8" path="res://lemuen/scenes/LemuenMerchant.cs" id="1_1pape"]
+[ext_resource type="SpineSkeletonDataResource" uid="uid://bexrjek5a8xhy" path="res://lemuen/scenes/lemuen_relax.tres" id="1_s6e7y"]
+
+[node name="LemuenMerchant" type="Node2D"]
+script = ExtResource("1_1pape")
+
+[node name="SpineSprite" type="SpineSprite" parent="."]
+skeleton_data_res = ExtResource("1_s6e7y")
+preview_skin = "default"
+preview_animation = "relaxed_loop"
+preview_frame = false
+preview_time = 0.0
+scale = Vector2(1.1, 1.1)

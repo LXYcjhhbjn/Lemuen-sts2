@@ -1,0 +1,43 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[Fmod]
+
+General/should_load_by_name=true
+
+[application]
+
+config/name="LEMUEN"
+config/features=PackedStringArray("4.5", "C#", "Mobile")
+config/icon="res://icon.svg"
+
+[autoload]
+
+FmodManager="*res://addons/fmod/FmodManager.gd"
+
+[debug]
+
+settings/gdscript/always_track_call_stacks=true
+
+[dotnet]
+
+project/assembly_name="LEMUEN"
+
+[editor]
+
+export/convert_text_resources_to_binary=false
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/atlas_generator/plugin.cfg", "res://addons/dev_tools/plugin.cfg", "res://addons/fmod/plugin.cfg", "res://addons/mega_text/plugin.cfg", "res://addons/megacontentcreator/plugin.cfg")
+
+[rendering]
+
+renderer/rendering_method="mobile"

@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3 uid="uid://bbp5r43nh7s1e"]
+
+[ext_resource type="Script" uid="uid://chprpux1tlojy" path="res://lemuen/scenes/LemuenBg.cs" id="1_esx6h"]
+[ext_resource type="Texture2D" uid="uid://deslcrs3yf6u1" path="res://lemuen/images/bg.png" id="1_lx07d"]
+[ext_resource type="Texture2D" uid="uid://cb12mngp31ky5" path="res://lemuen/images/icon.svg" id="2_mu0bk"]
+[ext_resource type="Script" uid="uid://m7gguhgu4pe7" path="res://lemuen/scenes/defaultskle.cs" id="3_esx6h"]
+
+[node name="Bg" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_esx6h")
+
+[node name="Bg" type="Sprite2D" parent="."]
+position = Vector2(1469.9999, 622)
+scale = Vector2(0.7, 0.7)
+texture = ExtResource("1_lx07d")
+
+[node name="sklebutton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 1733.0
+offset_top = 872.0
+offset_right = 2033.0
+offset_bottom = 1008.0
+text = "点一下使用暮星安魂曲"
+icon = ExtResource("2_mu0bk")
+script = ExtResource("3_esx6h")

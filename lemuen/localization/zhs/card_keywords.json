@@ -1,0 +1,6 @@
+{
+    "LXY-MODIFICATION.description": "你的回合结束后，如果这张牌未被[gold]消耗[/gold]，则发动其效果并[gold]消耗[/gold]。",
+    "LXY-MODIFICATION.title": "改装",
+    "LXY-GUNS.description": "你拥有[gold]弹药[/gold]时才能打出。\n打出时消耗[gold]手牌[/gold]中的全部[gold]攻击牌[/gold]。\n打出后返回[gold]手牌[/gold]。\n这张牌若为[gold]攻击牌[/gold]则可以多次[gold]升级[/gold]。",
+    "LXY-GUNS.title": "枪械"
+}
